@@ -67,7 +67,8 @@ Large-sized pizzas contribute the most to total revenue.
 A few pizzas account for the majority of sales, enabling strategic promotions.
 
 **📷 Dashboard Preview**
-![Uploading image.png…]()
+<img width="665" height="428" alt="image" src="https://github.com/user-attachments/assets/9045e246-0504-4649-962c-5deed1ad6e75" />
+
 
 
 
