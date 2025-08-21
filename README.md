@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Report Dashboard
 Developed an interactive Pizza Sales Dashboard using Power BI and SQL Server to analyze sales data, track KPIs like revenue, orders, and top-selling pizzas. Enabled data-driven decision-making by identifying trends, customer preferences, and optimizing business strategies.
-📌 Project Overview
+📌** Project Overview**
 
 This project connects SQL Server as a database to Power BI for building an interactive dashboard. The dashboard showcases key metrics such as:
 
@@ -27,7 +27,7 @@ Languages: SQL, DAX
 
 Dataset: Pizza sales transactional data
 
-🚀 Key Features
+**🚀 Key Features**
 
 Data Extraction & Cleaning: Queried and transformed data from SQL Server
 
@@ -37,7 +37,7 @@ KPI Tracking: Revenue, orders, customer spending, and product performance
 
 Trend Analysis: Identified peak sales periods and seasonal demand
 
-📊 Dashboard Highlights
+**📊 Dashboard Highlights**
 
 Top-selling pizzas and their contribution to total revenue
 
@@ -45,8 +45,8 @@ Slow-moving products for targeted marketing strategies
 
 Sales performance over time for forecasting and inventory planning
 
-📥 How to Use
-
+**📥 How to Use
+**
 Clone this repository:
 
 git clone https://github.com/<your-username>/pizza-sales-report.git
@@ -58,7 +58,7 @@ Connect it to your SQL Server database (if using your own dataset).
 
 Explore the interactive dashboard!
 
-📌 Project Insights
+**📌 Project Insights**
 
 Peak sales occur on weekends.
 
@@ -66,10 +66,10 @@ Large-sized pizzas contribute the most to total revenue.
 
 A few pizzas account for the majority of sales, enabling strategic promotions.
 
-📷 Dashboard Preview
+**📷 Dashboard Preview**
 
 
 
-📄 Conclusion
+**📄 Conclusion**
 
 This project demonstrates how Power BI and SQL Server can be combined to create an interactive business intelligence solution. It enables businesses to track sales performance, understand customer preferences, and make data-driven decisions effectively.
